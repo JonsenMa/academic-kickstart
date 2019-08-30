@@ -69,11 +69,11 @@ user_groups:
 
 Jonsen Ma is a second-year postgraduate of CS at Xidian University. His research interests include robotics, artificial intelligence, computer vision and programmable matter. His major works include: 
 
-  Develop on vehicle robot, bionic robot
-  SLAM
-  CV
-  Cloud robot
-  AI in robot
-  ...
+&emsp;&emsp;Develop on vehicle robot, bionic robot
+&emsp;&emsp;SLAM
+&emsp;&emsp;CV
+&emsp;&emsp;Cloud robot
+&emsp;&emsp;AI in robot
+&emsp;&emsp;...
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+This blog include experience in my study, 
