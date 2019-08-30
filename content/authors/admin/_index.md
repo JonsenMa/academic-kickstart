@@ -29,10 +29,10 @@ education:
   courses:
   - course: Computer science and technology
     institution: School of Cyber Engineering, Xidian University, China
-    year: 2018 - 2021
+    year: 2018
   - course: Computer science and technology
     institution: Southeast University, China
-    year: 2014 - 2018
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
