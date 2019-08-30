@@ -63,7 +63,7 @@ phone = ""
 address = "School of Cyber Engineering, Xidian University, Shaanxi Province, 710126, China"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """Monday 09:00 to 20:00 --<br>
+office_hours = """Monday 09:00 to 20:00 -- 
                   Friday 09:00 to 20:00"""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
