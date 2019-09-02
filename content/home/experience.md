@@ -30,7 +30,6 @@ date_format = "Jan 2006"
   * Edge computing development boards selection
   * Testing
   * Deploying
-
   """
 
 [[experience]]
@@ -43,7 +42,6 @@ date_format = "Jan 2006"
   description = """
   
   I studied the knowledge of JavaEE project development, carried out demand specification and software development of an enterprise salary management system, which is based on JDBC, MySQL and Java Swing.
-  
   """
 
 +++

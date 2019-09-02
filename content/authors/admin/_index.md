@@ -76,4 +76,4 @@ I am Jonsen Ma, a second-year postgraduate of CS at Xidian University. My resear
 &emsp;&emsp;AI in robot<br>
 &emsp;&emsp;...<br>
 
-This blog include experience during my study and my life. Thanks for your visiting! 
+This blog include experience during my study and my life. Thanks for your visiting!
