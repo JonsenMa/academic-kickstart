@@ -48,7 +48,7 @@ social:
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
+- icon: github-square
   icon_pack: fab
   link: https://github.com/JonsenMa
 # Link to a PDF of your resume/CV from the About widget.
