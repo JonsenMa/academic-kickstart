@@ -32,6 +32,21 @@ date_format = "Jan 2006"
   * Deploying
   """
 
+[[experience]]
+  title = "Embedded System Intern"
+  company = "Peaknowledge"
+  company_url = "http://www.peaknowledge.com"
+  location = "Xi'an"
+  date_start = "2019-01-20"
+  date_end = "2019-02-01"
+  description = """
+  Responsibilities include:
+  
+  * Edge computing development boards selection
+  * Testing
+  * Deploying
+  """
+  
 #[[experience]]
 #  title = "Software Development Intern"
 #  company = "Neusoft"
