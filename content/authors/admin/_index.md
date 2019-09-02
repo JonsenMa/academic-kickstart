@@ -67,7 +67,7 @@ user_groups:
 - Visitors
 ---
 
-Jonsen Ma is a second-year postgraduate of CS at Xidian University. His research interests include robotics, artificial intelligence, computer vision and programmable matter. His major works include: 
+I am Jonsen Ma, a second-year postgraduate of CS at Xidian University. My research interests include robotics, artificial intelligence, computer vision and programmable matter. My major works include: 
 
 &emsp;&emsp;Develop on vehicle robot, bionic robot<br>
 &emsp;&emsp;SLAM<br>
@@ -76,4 +76,4 @@ Jonsen Ma is a second-year postgraduate of CS at Xidian University. His research
 &emsp;&emsp;AI in robot<br>
 &emsp;&emsp;...<br>
 
-This blog include experience during my study and my life. 
+This blog include experience during my study and my life. Thanks for your visiting! 
