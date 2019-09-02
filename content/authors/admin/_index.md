@@ -4,7 +4,7 @@ name: Jonsen Ma
 
 # Username (this should match the folder name)
 authors:
-- Jonsen
+- admin
 
 # Is this the primary user of the site?
 superuser: true
