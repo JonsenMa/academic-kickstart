@@ -58,7 +58,7 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "jonsen.ma@gmail.com"
+email = ""
 phone = ""
 address = "School of Cyber Engineering, Xidian University, Shaanxi Province, 710126, China"
 
