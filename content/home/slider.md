@@ -18,7 +18,7 @@ height = ""
 [[item]]
   title = "ROS Summer School 2019"
   content = ""
-  align = "center"  # Choose `center`, `left`, or `right`.
+  align = "left"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
