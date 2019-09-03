@@ -40,7 +40,7 @@ height = ""
   align = "right"
 
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "lab.png"  # Image path relative to your `static/img/` folder.
+  overlay_img = "xd.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.3  # Darken the image. Value in range 0-1.
 
   cta_label = "View more"
