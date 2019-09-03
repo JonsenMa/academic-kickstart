@@ -32,4 +32,10 @@ subtitle = ""
   name = "Python"
   description = ""
 
+[[feature]]
+  icon = "robot"
+  icon_pack = "fas"
+  name = "ROS"
+  description = ""
+
 +++
