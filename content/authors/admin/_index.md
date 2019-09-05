@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:jonsen.ma@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -63,7 +63,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Tom
+- Tom's Lab
 - Visitors
 ---
 
@@ -71,8 +71,8 @@ I am Jonsen Ma, a second-year postgraduate of CS at Xidian University. My resear
 
 &emsp;&emsp;Develop on vehicle robot, bionic robot<br>
 &emsp;&emsp;SLAM<br>
-&emsp;&emsp;CV<br>
-&emsp;&emsp;Cloud robot<br>
+&emsp;&emsp;Computer Vision<br>
+&emsp;&emsp;Cloud Robot<br>
 &emsp;&emsp;AI in robot<br>
 &emsp;&emsp;...<br>
 
