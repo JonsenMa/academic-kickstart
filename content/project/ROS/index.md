@@ -9,7 +9,7 @@ title = "ROS Summer School"
 # Project summary to display on homepage.
 summary = """
  The 5th China Robotic Operating System(ROS) Summer School was held in Hefei:<br>
- 1). [Face Recognization Course](https://www.educoder.net/paths/130): explain the basic principles<br>
+ 1). [Face ](https://www.educoder.net/paths/130): explain <br>
  
  """
 
