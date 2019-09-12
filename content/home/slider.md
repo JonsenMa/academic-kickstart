@@ -49,11 +49,16 @@ height = ""
   cta_icon = "graduation-cap"
 
 [[item]]
-  title = "Right"
-  content = "I am right aligned :smile:"
+  title = "Xidian University"
+  content = ""
   align = "right"
 
   overlay_color = "#333"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_img = "xidian.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.3  # Darken the image. Value in range 0-1.
+  
+  cta_label = "View more"
+  cta_url = "https://www.xidian.edu.cn"
+  cta_icon_pack = "fas"
+  cta_icon = "graduation-cap"
 +++
